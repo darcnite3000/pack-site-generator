@@ -1,0 +1,8 @@
+node_modules
+www/*.js
+www/*.html
+www/*.css
+www/*.map
+www/data/*.json
+*.log
+.DS_Store
